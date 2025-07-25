@@ -1,0 +1,1 @@
+# GQT_CORE_JAVA
